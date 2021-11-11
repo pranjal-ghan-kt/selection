@@ -95,3 +95,4 @@ To bundle it we use [rollup](https://rollupjs.org/) (which is btw also used by v
 ### You want to contribute?
 
 That's awesome! Check out the [contribution guidelines](./.github/CONTRIBUTING.md) to get started :)
+pranjal
