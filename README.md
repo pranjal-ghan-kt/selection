@@ -81,7 +81,7 @@ It always provides both a `UMD` (`.js`) and `.mjs` version. If you want to suppo
 I do this to provide maximum flexibility and give those who target ESNext a chance to make full use of how this library is bundled.
 Everything else is just a matter of configuration :)
 
-### Development
+## Development
 
 Use the following commands to work on this locally (we use [lerna](https://lerna.js.org/) to manage this):
 
@@ -95,3 +95,4 @@ To bundle it we use [rollup](https://rollupjs.org/) (which is btw also used by v
 ### You want to contribute?
 
 That's awesome! Check out the [contribution guidelines](./.github/CONTRIBUTING.md) to get started :)
+pranjal
